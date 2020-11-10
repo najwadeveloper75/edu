@@ -22,6 +22,10 @@
                 <behavior>Edit</behavior>
                 <field>Semester_Hours__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Contact_Number__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
