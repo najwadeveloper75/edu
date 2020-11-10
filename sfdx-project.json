@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "source-folder",
+            "default": true,
+            "package": "eduPackage01",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "eduNamespace",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "eduPackage01": "0Ho4x000000fxSLCAY",
+        "eduPackage01@0.1.0-1": "04t4x000000cGzWAAU"
+    }
+}
